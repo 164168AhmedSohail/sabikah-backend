@@ -1,0 +1,70 @@
+{
+    "products":[
+    {
+      "id":4,
+      "name":"Yellow Samsung Mobile",
+      "link":"Yellow-Samsung-Mobile",
+      "img":"http://192.168.0.107:3001/images/1.jpg",
+      "categories":"Electronics",
+      "price":"10000",
+      "review":"******",
+      "rating":"high",
+      "description":"The Galaxy A series (meaning Alpha) is a line of mid-range Android smartphones manufactured by Samsung Electronics. The Galaxy A series is similar to the high-end Galaxy S series, but with lower specifications and features."
+    },
+    {
+      "id":5,
+      "name":"Black Samsung Mobile",
+      "link":"Black-Samsung-Mobile",
+      "img":"http://192.168.10.8:3001/images/2.png",
+      "categories":"electronics",
+      "price":"15000",
+      "review":"****",
+      "rating":"high",
+      "description":"The Samsung Galaxy A32 5G is powered by 2.0GHz MHz octa-core it comes with 4GB of RAM. The phone packs 64GB of internal storage that can be expanded up to 1000GB via a microSD card."
+    },
+    {
+      "id":1,
+      "name":"Baba T-Shirt",
+      "link":"Baba-T-Shirt",
+      "img":"http://192.168.10.8:3001/images/10.jpg",
+      "categories":"mens",
+      "price":"1500",
+      "review":"***",
+      "rating":"high",
+      "description":"A T-shirt, or tee shirt, is a style of fabric shirt named after the T shape of its body and sleeves. Traditionally, it has short sleeves and a round neckline, known as a crew neck, which lacks a collar."
+    },
+    {
+      "id":2,
+      "name":"Red coat T-Shirt",
+      "link":"Red-coat-T-Shirt",
+      "img":"http://192.168.10.8:3001/images/11.jpg",
+      "categories":"mens",
+      "price":"2000",
+      "review":"*****",
+      "rating":"average",
+      "description":"A good t-shirt will feel far smoother and lighter than most other t-shirts. A good t-shirt not only endures but gets better with age, the fabric actually begins to feel softer over time."
+    },
+    {
+      "id":3,
+      "name":"Blue T-Shirt",
+      "link":"Blue-T-Shirt",
+      "img":"http://192.168.10.8:3001/images/13.jpg",
+      "categories":"mens",
+      "price":"2000",
+      "review":"*****",
+      "rating":"average",
+      "description":"The most common type of fabric used to make t-shirts is cotton, but it is important to mention that there are different types of cotton out there for use. ... Pima cotton is considered to be the highest quality cotton that you can get."
+    },
+    {
+      "id":6,
+      "name":"Ball For Kids-Red",
+      "link":"Ball-For-Kids-Red",
+      "img":"http://192.168.10.8:3001/images/17.jpg",
+      "categories":"kids",
+      "price":"800",
+      "review":"*****",
+      "rating":"high",
+      "description":"Playing with balls improves kids' motor skills, hand-eye coordination, and timing, which are important parts of the developmental progression of toddlers. "
+    }
+  ]
+}
